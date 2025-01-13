@@ -3,6 +3,11 @@
 My solution to comma ai's calibration challenge: [https://github.com/commaai/calib_challenge?tab=readme-ov-file]
 MSE of <25% on the test data
 
+# Video Demo 
+[https://youtube.com/shorts/EXIoAvla1Tc?feature=share]
+
+---
+
 # KalmanFilter Lane Detection and Calibration Challenge Solution
 
 This repository contains an implementation of lane detection using Kalman Filters for detecting and tracking curved lane lines in video sequences. The solution is tailored for the comma.ai calibration challenge and integrates techniques for estimating pitch and yaw angles from lane geometry, enforcing parallelism, and estimating vehicle speed.
